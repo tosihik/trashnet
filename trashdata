@@ -1,0 +1,8 @@
+dataset/
+├── 0_burnable/
+│   ├── burnable_1.jpg
+│   ├── burnable_2.jpg
+│   └── ...
+├── 1_plastic/
+├── 2_pet/
+└── 3_cardboard/
